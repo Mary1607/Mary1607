@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Mariana Lima, tenho 40 anos e sou natural São Paulo. Atualmente, estou cursando Ciência da computação na FMU. Sou apaixonada por tecnologia. 💻 Explorando o universo da programação, desenvolvimento de software e inteligência artificial.
+Me chamo Mariana, sou natural São Paulo. Atualmente, estou cursando Ciência da computação na FMU. Sou apaixonada por tecnologia. 💻 Explorando o universo da programação, desenvolvimento de software e inteligência artificial.
 🚀 Sempre em busca de novos desafios e aprendizados para transformar ideias em soluções reais.
 🌐 Interesses: desenvolvimento web, ciência de dados, segurança da informação e projetos open source.
 📚 Compartilhando conhecimento e construindo minha jornada no mundo da tecnologia.
